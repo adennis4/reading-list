@@ -12,7 +12,7 @@
 * Metaprogramming Ruby - Paolo Perrotta
 * Game of Thrones - George RR Martin
 
-### Finished Books
+### Finished
 
 * Thinking Fast and Slow - Daniel Kahneman
 * Predictably Irrational - Dan Ariely
@@ -20,3 +20,9 @@
 * The Tipping Point - Malcolm Gladwell
 * Lord of the Rings - JRR Tolkein
 * American Sniper - Chris Kyle
+* Ender's Game - Orson Scott Card
+* The Giver - Lois Lowry
+* When Genius Failed - Roger Lowenstein
+* Liar's Poker - Michael Lewis
+* Moneyball - Michael Lewis
+* The Blind Side - Michael Lewis
