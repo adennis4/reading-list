@@ -11,6 +11,8 @@
 * Code - Charles Petzold
 * Metaprogramming Ruby - Paolo Perrotta
 * Game of Thrones - George RR Martin
+* American Gods - Neil Gaiman
+* Live Free or Die - John Ringo
 
 ### Finished
 
